@@ -1,7 +1,5 @@
-Para utlizar bien este tutorial primero en su consola colocar npx create-react-app my-app
+Para utlizar bien este ejercicio primero clonar este repositorio e ir copiando lo que esta en las carpeta src/component a App.js (menos Ejercitacion.js) (sustituir todo App.js por lo que esta en cada carpeta)
 
-luego ir copiando lo que esta en las carpeta de component a App.js (sustituir todo App.js por lo que esta en cada carpeta)
 
-En component/Ejercitacion.js
-
-Hay un ejercicio hecho con ternario. repetirlo utilizando else if, &&, y enum
+Para realizar la ejercitacion iniciar un proyecto react e ir intentando hacer la actividad sin copiar.
+El ejercicio consiste en ver lo que esta en src/component/Ejercitacion.js y luego repetir el ejercicio hecho con ternario utilizando else if, &&.
